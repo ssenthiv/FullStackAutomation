@@ -8,9 +8,9 @@
 	</classpathentry>
 	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
 		<attributes>
+			<attribute name="test" value="true"/>
 			<attribute name="optional" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
-			<attribute name="test" value="true"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
@@ -31,17 +31,17 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-	<classpathentry kind="lib" path="jar/sqljdbc41-6.0.8112.jar"/>
-	<classpathentry kind="lib" path="jar/aspose-cells-9.0.0.jar"/>
-	<classpathentry kind="lib" path="jar/olap4j-1.1.0.jar"/>
-	<classpathentry kind="lib" path="jar/olap4j-xmla-1.1.0.jar"/>
-	<classpathentry kind="lib" path="D:/Personal/scripts/Java/Workspace/FullStackAutomation/FullStackAutomation/BrowserDrivers/selenium-server-standalone-3.141.59.jar"/>
 	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
 		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
 			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
 			<attribute name="optional" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="D:/Personal/scripts/GitRepository/FullStackAutomation/jar/aspose-cells-9.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Personal/scripts/GitRepository/FullStackAutomation/jar/olap4j-1.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Personal/scripts/GitRepository/FullStackAutomation/jar/olap4j-xmla-1.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Personal/scripts/GitRepository/FullStackAutomation/jar/sqljdbc41-6.0.8112.jar"/>
+	<classpathentry kind="lib" path="D:/Personal/scripts/GitRepository/FullStackAutomation/jar/selenium-server-standalone-3.141.59.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
