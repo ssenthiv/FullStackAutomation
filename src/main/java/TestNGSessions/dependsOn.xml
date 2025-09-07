@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!-- suite guice-stage="DEVELOPMENT" name="suite 1" preserve-order="true" verbose="2"> -->
+<suite name="suite 1"  >
+	
+	
+	<test name="Test 1">
+	
+	
+		<classes>
+			<class name="TestNGSessions.DependsOnMethod" />	
+			<class name="TestNGSessions.InvocationCount" /> 
+			
+		</classes>
+	</test>
+	<!-- test name="Test 2">
+	<parameter name="browser" value="Chrome"/>
+	
+		<classes>
+			
+			<class name="TestNGSessions.InvocationCount" /> 
+			
+		</classes>
+	</test>  -->
+	
+	
+</suite>

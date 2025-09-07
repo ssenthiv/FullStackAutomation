@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SuiteModule1" parallel="tests" thread-count="2" >
+<!-- suite name="SuiteModule1" parallel="tests" thread-count="2" > -->
+
+
+<test name="InValidDataTest :- Validate the Negative Scenarios for Testing Form">
+    <parameter name="browser" value="Chrome"/>
+    <parameter name="remoteURL" value="http://192.168.100.4:5556/wd/hub"/>
+    <classes>
+        <class name="FrameWorks.Testcase1" ></class> 
+        <methods>
+        	<include name="Method1" />
+        
+        </methods>
+    </classes>
+</test>  
+
+
+<test name="ValidDataTest :- Validate the Positive Scenarios for Testing Form">
+    <parameter name="browser" value="IE"/>
+    <parameter name="remoteURL" value="http://192.168.100.4:5557/wd/hub"/>
+    <classes>
+        <class name="FrameWorks.Testcase2" ></class> 
+        <methods>
+        	<include name="Method2" />
+        
+        </methods>
+    </classes>
+</test>   
+
+<!-- test name="SuiteModule1ValidDataTest :- Validate the Positive Scenarios for Testing Form">
+    <parameter name="browser" value="Mozilla Chrome"/>
+    <classes>
+        <class name="FrameWorks.Testcase1" ></class> 
+    </classes>
+</test>  -->
+</suite>

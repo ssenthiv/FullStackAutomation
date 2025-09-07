@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!-- suite guice-stage="DEVELOPMENT" name="suite 1" preserve-order="true" verbose="2"> -->
+<suite guice-stage="DEVELOPMENT" name="suite 1"  verbose="2">
+	<!-- listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+	</listeners>-->
+	
+	
+	<test name="Test 1">
+		<classes>
+			<class name="TestNGSessions.Annotations1" />	
+			<class name="TestNGSessions.Annotations2" /> 		
+		</classes>
+	</test>
+	
+	<!--<test name="Test_Conceptual_MasterCluster">
+		<classes>
+			<class name="com.consilio.tests.index.MasterClusterRequest" />			
+		</classes>
+	</test>
+	<test name="Test_Conceptual_NearDupeCluster">
+		<classes>
+			<class name="com.consilio.tests.index.ConceptualNearDupeRequest" />			
+		</classes>
+	</test>-->
+	<!--<test name="Test_Conceptual_Search">
+		<classes>
+			<class name="com.consilio.tests.index.SearchRequest" />			
+		</classes>
+	</test>-->
+	<!--	<test name="Test_Conceptual_Categorization">
+		<classes>
+			<class name="com.consilio.tests.index.CategorizationRequest" />			
+		</classes>
+	</test>-->
+	
+	<!-- <test name="Test_Email_Threading">
+		<classes>
+			<class name="com.consilio.tests.Functional_EmailThreadingTest" />			
+		</classes>
+	</test>
+	<test name="Test_Textual_Near_Duplicates" >
+		<classes>
+			<class name="com.consilio.tests.Functional_TextualNearDupeTest" />
+		</classes>
+	</test> -->
+</suite>

@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<staging-export staging-area-id="test1_" export-date="2018-02-15T11:12:00.488Z">
+    <item item-id="1">
+        <meta name="caat-derived-textual-near-dup-similarity">100</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">0</meta>
+        <meta name="caat-derived-textual-near-dup-group">1</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">&lt;EMPTY&gt;</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000001</meta>
+        <meta name="caat-derived-full-text-md5-hash">&lt;EMPTY&gt;</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\1 (2).txt</meta>
+    </item>
+    <item item-id="13">
+        <meta name="caat-derived-textual-near-dup-similarity">100</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">0</meta>
+        <meta name="caat-derived-textual-near-dup-group">1</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">&lt;EMPTY&gt;</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000002</meta>
+        <meta name="caat-derived-full-text-md5-hash">&lt;EMPTY&gt;</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\2 (2).txt</meta>
+    </item>
+    <item item-id="25">
+        <meta name="caat-derived-textual-near-dup-similarity">100</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">0</meta>
+        <meta name="caat-derived-textual-near-dup-group">1</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">&lt;EMPTY&gt;</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000003</meta>
+        <meta name="caat-derived-full-text-md5-hash">&lt;EMPTY&gt;</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\3 (2).txt</meta>
+    </item>
+    <item item-id="37">
+        <meta name="caat-derived-textual-near-dup-similarity">100</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">0</meta>
+        <meta name="caat-derived-textual-near-dup-group">1</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">&lt;EMPTY&gt;</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000004</meta>
+        <meta name="caat-derived-full-text-md5-hash">&lt;EMPTY&gt;</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\4 (2).txt</meta>
+    </item>
+    <item item-id="49">
+        <meta name="caat-derived-textual-near-dup-similarity">100</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">0</meta>
+        <meta name="caat-derived-textual-near-dup-group">1</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">&lt;EMPTY&gt;</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000005</meta>
+        <meta name="caat-derived-full-text-md5-hash">&lt;EMPTY&gt;</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\5 (2).txt</meta>
+    </item>
+    <item item-id="14">
+        <meta name="caat-derived-textual-near-dup-similarity">100</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">115389</meta>
+        <meta name="caat-derived-textual-near-dup-group">14</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">F5F57A99405FD679F62E44A034298BA3</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000001</meta>
+        <meta name="caat-derived-full-text-md5-hash">665DDBC17E5C03FB6F7B716B6BD0ABD3</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\2.txt</meta>
+    </item>
+    <item item-id="34">
+        <meta name="caat-derived-textual-near-dup-similarity">100</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">115389</meta>
+        <meta name="caat-derived-textual-near-dup-group">14</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">F5F57A99405FD679F62E44A034298BA3</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000002</meta>
+        <meta name="caat-derived-full-text-md5-hash">665DDBC17E5C03FB6F7B716B6BD0ABD3</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\37.txt</meta>
+    </item>
+    <item item-id="22">
+        <meta name="caat-derived-textual-near-dup-similarity">100</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">3145</meta>
+        <meta name="caat-derived-textual-near-dup-group">22</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">BB11025C24A8C981809769A5280B8F84</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000001</meta>
+        <meta name="caat-derived-full-text-md5-hash">171E087D2E959114DA040F10CBEAF0C0</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\27.txt</meta>
+    </item>
+    <item item-id="3">
+        <meta name="caat-derived-textual-near-dup-similarity">100</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">3145</meta>
+        <meta name="caat-derived-textual-near-dup-group">22</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">BB11025C24A8C981809769A5280B8F84</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000002</meta>
+        <meta name="caat-derived-full-text-md5-hash">171E087D2E959114DA040F10CBEAF0C0</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\10.txt</meta>
+    </item>
+    <item item-id="23">
+        <meta name="caat-derived-textual-near-dup-similarity">100</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">4337</meta>
+        <meta name="caat-derived-textual-near-dup-group">23</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">133D13DA58B3466496DBF3D25C8F50A4</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000001</meta>
+        <meta name="caat-derived-full-text-md5-hash">839A702AB2DF297A5B8BCD01876FFD01</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\28.txt</meta>
+    </item>
+    <item item-id="24">
+        <meta name="caat-derived-textual-near-dup-similarity">100</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">4337</meta>
+        <meta name="caat-derived-textual-near-dup-group">23</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">133D13DA58B3466496DBF3D25C8F50A4</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000002</meta>
+        <meta name="caat-derived-full-text-md5-hash">839A702AB2DF297A5B8BCD01876FFD01</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\29.txt</meta>
+    </item>
+    <item item-id="54">
+        <meta name="caat-derived-textual-near-dup-similarity">100</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">4337</meta>
+        <meta name="caat-derived-textual-near-dup-group">23</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">133D13DA58B3466496DBF3D25C8F50A4</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000003</meta>
+        <meta name="caat-derived-full-text-md5-hash">839A702AB2DF297A5B8BCD01876FFD01</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\8.txt</meta>
+    </item>
+    <item item-id="28">
+        <meta name="caat-derived-textual-near-dup-similarity">100</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">4452</meta>
+        <meta name="caat-derived-textual-near-dup-group">28</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">7DD592CF8A70FEDD2827B49FB6D783AC</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000001</meta>
+        <meta name="caat-derived-full-text-md5-hash">7D273E672844DA86A219C0D7D57E9D7B</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\31.txt</meta>
+    </item>
+    <item item-id="44">
+        <meta name="caat-derived-textual-near-dup-similarity">100</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">4452</meta>
+        <meta name="caat-derived-textual-near-dup-group">28</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">7DD592CF8A70FEDD2827B49FB6D783AC</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000002</meta>
+        <meta name="caat-derived-full-text-md5-hash">7D273E672844DA86A219C0D7D57E9D7B</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\45.txt</meta>
+    </item>
+    <item item-id="29">
+        <meta name="caat-derived-textual-near-dup-similarity">100</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">14</meta>
+        <meta name="caat-derived-textual-near-dup-group">29</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">C96395147454065207B3C5366B51AEA0</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000001</meta>
+        <meta name="caat-derived-full-text-md5-hash">C96395147454065207B3C5366B51AEA0</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\32.txt</meta>
+    </item>
+    <item item-id="39">
+        <meta name="caat-derived-textual-near-dup-similarity">100</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">14</meta>
+        <meta name="caat-derived-textual-near-dup-group">29</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">C96395147454065207B3C5366B51AEA0</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000002</meta>
+        <meta name="caat-derived-full-text-md5-hash">C96395147454065207B3C5366B51AEA0</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\40.txt</meta>
+    </item>
+    <item item-id="30">
+        <meta name="caat-derived-textual-near-dup-similarity">100</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">167</meta>
+        <meta name="caat-derived-textual-near-dup-group">30</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">F862CD5379DE8F746E579BBB8E6EF452</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000001</meta>
+        <meta name="caat-derived-full-text-md5-hash">ABBA0C11B5892CA8D23E7C4F48D7E7C1</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\33.txt</meta>
+    </item>
+    <item item-id="51">
+        <meta name="caat-derived-textual-near-dup-similarity">100</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">167</meta>
+        <meta name="caat-derived-textual-near-dup-group">30</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">F862CD5379DE8F746E579BBB8E6EF452</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000002</meta>
+        <meta name="caat-derived-full-text-md5-hash">ABBA0C11B5892CA8D23E7C4F48D7E7C1</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\50.txt</meta>
+    </item>
+    <item item-id="31">
+        <meta name="caat-derived-textual-near-dup-similarity">100</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">661</meta>
+        <meta name="caat-derived-textual-near-dup-group">31</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">E35D0718CD4741301518E02143D3FBBE</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000001</meta>
+        <meta name="caat-derived-full-text-md5-hash">0EFE4C6293264C4AE6122CBB99DCE1E1</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\34.txt</meta>
+    </item>
+    <item item-id="52">
+        <meta name="caat-derived-textual-near-dup-similarity">100</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">661</meta>
+        <meta name="caat-derived-textual-near-dup-group">31</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">E35D0718CD4741301518E02143D3FBBE</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000002</meta>
+        <meta name="caat-derived-full-text-md5-hash">0EFE4C6293264C4AE6122CBB99DCE1E1</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\6.txt</meta>
+    </item>
+    <item item-id="32">
+        <meta name="caat-derived-textual-near-dup-similarity">91</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">622</meta>
+        <meta name="caat-derived-textual-near-dup-group">31</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">9646FC4B23F04395FB8E6EF16E6676DD</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000003</meta>
+        <meta name="caat-derived-full-text-md5-hash">C413357CFDAE8CE634727AA08652D6FC</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\35.txt</meta>
+    </item>
+    <item item-id="35">
+        <meta name="caat-derived-textual-near-dup-similarity">100</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">173468</meta>
+        <meta name="caat-derived-textual-near-dup-group">35</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">1E196FD5962B5F4921F8290D2D07D499</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000001</meta>
+        <meta name="caat-derived-full-text-md5-hash">D6A3A76E0100076F23BBA230418D5867</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\38.txt</meta>
+    </item>
+    <item item-id="36">
+        <meta name="caat-derived-textual-near-dup-similarity">99</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">173468</meta>
+        <meta name="caat-derived-textual-near-dup-group">35</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">A43376093CA17DFA55BB227491BC49F1</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000002</meta>
+        <meta name="caat-derived-full-text-md5-hash">5D0B505CA6DD40838681CF50CD2EC171</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\39.txt</meta>
+    </item>
+    <item item-id="55">
+        <meta name="caat-derived-textual-near-dup-similarity">99</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">173468</meta>
+        <meta name="caat-derived-textual-near-dup-group">35</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">A43376093CA17DFA55BB227491BC49F1</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000003</meta>
+        <meta name="caat-derived-full-text-md5-hash">5D0B505CA6DD40838681CF50CD2EC171</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\9.txt</meta>
+    </item>
+    <item item-id="4">
+        <meta name="caat-derived-textual-near-dup-similarity">100</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">415</meta>
+        <meta name="caat-derived-textual-near-dup-group">4</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">534B5AD747C955C4D1AD0193C9DED67E</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000001</meta>
+        <meta name="caat-derived-full-text-md5-hash">2EA1A072C62ECFC89A95BEC82134FC1B</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\11.txt</meta>
+    </item>
+    <item item-id="42">
+        <meta name="caat-derived-textual-near-dup-similarity">100</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">415</meta>
+        <meta name="caat-derived-textual-near-dup-group">4</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">534B5AD747C955C4D1AD0193C9DED67E</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000002</meta>
+        <meta name="caat-derived-full-text-md5-hash">2EA1A072C62ECFC89A95BEC82134FC1B</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\43.txt</meta>
+    </item>
+    <item item-id="41">
+        <meta name="caat-derived-textual-near-dup-similarity">100</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">333</meta>
+        <meta name="caat-derived-textual-near-dup-group">41</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">56B839AC32E35208F5EA055AED28ED92</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000001</meta>
+        <meta name="caat-derived-full-text-md5-hash">CBCB70C7FCD16E3F713632EAEBD692DC</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\42.txt</meta>
+    </item>
+    <item item-id="47">
+        <meta name="caat-derived-textual-near-dup-similarity">100</meta>
+        <meta name="caat-derived-textual-near-dup-num-words">333</meta>
+        <meta name="caat-derived-textual-near-dup-group">41</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">56B839AC32E35208F5EA055AED28ED92</meta>
+        <meta name="caat-derived-textual-near-dup-sort">00000002</meta>
+        <meta name="caat-derived-full-text-md5-hash">CBCB70C7FCD16E3F713632EAEBD692DC</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\48.txt</meta>
+    </item>
+    <item item-id="43">
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\44.txt</meta>
+    </item>
+    <item item-id="10">
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\17.txt</meta>
+    </item>
+    <item item-id="7">
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\14.txt</meta>
+    </item>
+    <item item-id="6">
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\13.txt</meta>
+    </item>
+    <item item-id="8">
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\15.txt</meta>
+    </item>
+    <item item-id="20">
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\25.txt</meta>
+    </item>
+    <item item-id="16">
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\21.txt</meta>
+    </item>
+    <item item-id="50">
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\5.txt</meta>
+    </item>
+    <item item-id="53">
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\7.txt</meta>
+    </item>
+    <item item-id="11">
+        <meta name="caat-derived-textual-near-dup-num-words">73</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">875BAB62A51F4172F3B91B8DBE9B5217</meta>
+        <meta name="caat-derived-full-text-md5-hash">A582482D89706609D052070FF11890F7</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\18.txt</meta>
+    </item>
+    <item item-id="17">
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\22.txt</meta>
+    </item>
+    <item item-id="12">
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\19.txt</meta>
+    </item>
+    <item item-id="45">
+        <meta name="caat-derived-textual-near-dup-num-words">90</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">3EC60EE1C151A844D0440640157D19BD</meta>
+        <meta name="caat-derived-full-text-md5-hash">5B42891646872C2A2317263C75B38000</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\46.txt</meta>
+    </item>
+    <item item-id="48">
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\49.txt</meta>
+    </item>
+    <item item-id="2">
+        <meta name="caat-derived-textual-near-dup-num-words">796</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">9A39F1E4DD2826981E9257B977DB5549</meta>
+        <meta name="caat-derived-full-text-md5-hash">58EC92265848D9E198F7AFFD957D7779</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\1.txt</meta>
+    </item>
+    <item item-id="5">
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\12.txt</meta>
+    </item>
+    <item item-id="21">
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\26.txt</meta>
+    </item>
+    <item item-id="15">
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\20.txt</meta>
+    </item>
+    <item item-id="40">
+        <meta name="caat-derived-textual-near-dup-num-words">125</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">AFE694525B8E87EFFE9A80E6A6AA695F</meta>
+        <meta name="caat-derived-full-text-md5-hash">F11E6616835BDE2340133C0E2693ECB9</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\41.txt</meta>
+    </item>
+    <item item-id="46">
+        <meta name="caat-derived-textual-near-dup-num-words">1330</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">2B48338F9272F81AAEDDB4F63FACEB96</meta>
+        <meta name="caat-derived-full-text-md5-hash">75E721278BC607CD20F6368A2069FC6E</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\47.txt</meta>
+    </item>
+    <item item-id="9">
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\16.txt</meta>
+    </item>
+    <item item-id="26">
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\3.txt</meta>
+    </item>
+    <item item-id="19">
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\24.txt</meta>
+    </item>
+    <item item-id="38">
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\4.txt</meta>
+    </item>
+    <item item-id="18">
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\23.txt</meta>
+    </item>
+    <item item-id="27">
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\30.txt</meta>
+    </item>
+    <item item-id="33">
+        <meta name="caat-derived-textual-near-dup-num-words">88451</meta>
+        <meta name="caat-derived-textual-near-dup-md5-hash">F404B75BA1DC4E0B62DAFCC67544102D</meta>
+        <meta name="caat-derived-full-text-md5-hash">1F400119FFF4BC8B8931807B1D437FA1</meta>
+        <meta name="url">file:\\10.12.235.31\Datasets\Sravan\TestData\FullAnalysis\tc_et_39-emails efiles and empty files\36.txt</meta>
+    </item>
+</staging-export>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite1" parallel="tests" thread-count="10"  > 
+
+<!-- suite name="Suite1" parallel="methods" thread-count="3" > -->
+
+  <!-- test name="Test1" parallel="methods" thread-count="2"  > -->
+  <test name="Test1" parallel="methods" thread-count="3" > 
+  	<parameter name="browser" value="Chrome"/>
+    <classes>
+
+      <class name="TestNGSessions.ParallelExecution1"> 
+     
+      
+	</class>
+    </classes>
+  </test> 
+  
+  <!-- test name="Test2" parallel="methods" thread-count="3" > -->
+  <!-- test name="Test2" parallel="methods" thread-count="3" >
+  	<parameter name="browser" value="IE"/>
+    <classes>
+      <class name="TestNGSessions.ParallelExecution2"/>
+      
+    </classes>
+  </test> -->
+</suite> <!-- Suite1 -->

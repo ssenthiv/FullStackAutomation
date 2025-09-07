@@ -1,0 +1,174 @@
+{
+  "cluster": {
+"expected": 1,
+    "clusterId": 0, 
+    "coherenceScore": 0.806, 
+    "items": [], 
+    
+    "subclusters": [
+      {
+        "clusterId": 11, 
+        "coherenceScore": 1.0, 
+        "items": [], 
+        
+        "subclusters": [
+          {
+            "clusterId": 111, 
+            "coherenceScore": 1.0, 
+            "items": [
+              {
+                "itemId": 26, 
+                "metadataAsStrings": null, 
+                "score": 0.7655383400690063
+              }, 
+              
+            ], 
+            
+            "subclusters": []
+            
+          }, 
+          {
+            "clusterId": 112, 
+            "coherenceScore": 0.9899999999999997, 
+            "items": [
+              {
+                "itemId": 64, 
+                "metadataAsStrings": null, 
+                "score": 0.9899999999999999
+              }, 
+              {
+                "itemId": 65, 
+                "metadataAsStrings": null, 
+                "score": 0.9899999999999995
+              }, 
+              
+            ], 
+            
+            "subclusters": [] 
+            
+          }, 
+          {
+            "clusterId": 113, 
+            "coherenceScore": 0.99, 
+            "items": [
+              {
+                "itemId": 51, 
+                "metadataAsStrings": null, 
+                "score": 0.9690222807360717
+              }, 
+              {
+                "itemId": 52, 
+                "metadataAsStrings": null, 
+                "score": 1.0265853753744647
+              }, 
+              {
+                "itemId": 53, 
+                "metadataAsStrings": null, 
+                "score": 1.0201460228582448
+              }, 
+              
+            ], 
+            
+            "subclusters": []
+            
+          }, 
+          {
+            "clusterId": 114, 
+            "coherenceScore": 0.438, 
+            "items": [
+              {
+                "itemId": 18, 
+                "metadataAsStrings": null, 
+                "score": 0.05057988553531595
+              }, 
+              {
+                "itemId": 19, 
+                "metadataAsStrings": null, 
+                "score": 0.9254303758342715
+              }, 
+              {
+                "itemId": 20, 
+                "metadataAsStrings": null, 
+                "score": 0.25772508513607256
+              }, 
+              {
+                "itemId": 21, 
+                "metadataAsStrings": null, 
+                "score": 0.554736483474493
+              }, 
+              
+            ], 
+            
+            "subclusters": []
+            
+          }
+        ] 
+        
+      }, 
+      {
+        "clusterId": 12, 
+        "coherenceScore": 0.443, 
+        "items": [], 
+        
+        "subclusters": [
+          {
+            "clusterId": 121, 
+            "coherenceScore": 1.0, 
+            "items": [
+              {
+                "itemId": 1, 
+                "metadataAsStrings": null, 
+                "score": 0.9954192540380834
+              }
+              
+              
+            ], 
+            
+            "subclusters": []
+            
+          }, 
+          {
+            "clusterId": 122, 
+            "coherenceScore": 0.91, 
+            "items": [
+              {
+                "itemId": 43, 
+                "metadataAsStrings": null, 
+                "score": 0.8779088645192483
+              }, 
+              {
+                "itemId": 44, 
+                "metadataAsStrings": null, 
+                "score": 0.8251030706170429
+              }
+              
+              
+            ], 
+            
+            "subclusters": []
+            
+          }
+        ] 
+       
+      }, 
+      {
+        "clusterId": 13, 
+        "coherenceScore": 0.9753685874225386, 
+        "items": [
+          {
+            "itemId": 85, 
+            "metadataAsStrings": null, 
+            "score": 0.9692396452105025
+          }
+          
+          
+        ], 
+        
+        "subclusters": []
+              }
+    ]
+    
+  }, 
+  
+}
+
